@@ -1,0 +1,50 @@
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\appsettings.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManager.props
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManager.props
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManager.props
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\scopedcss\bundle\TaskManager.styles.css
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+c:\Users\Youssef-PC\Desktop\Task Manager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\appsettings.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManager.props
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManager.props
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManager.props
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\scopedcss\bundle\TaskManager.styles.css
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Users\Youssef-PC\Desktop\Course Projects\Task Manager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
